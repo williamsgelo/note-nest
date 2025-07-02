@@ -14,7 +14,7 @@ async function submit() {
     },
   });
 
-  console.log("Response from API:", response);
+  // console.log("Response from API:", response);
 }
 </script>
 
